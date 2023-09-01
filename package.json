@@ -1,0 +1,21 @@
+{
+  "name": "cli-quiz-app",
+  "version": "1.0.0",
+  "description": "a quiz app based on cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "nodejs",
+    "js",
+    "quizapp"
+  ],
+  "author": "aman",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
